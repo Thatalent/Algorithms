@@ -15,7 +15,8 @@ public class LongDividson {
         System.out.println("Input divisor: ");
 
         divisor = Integer.toString(input.nextInt());
-
+        
+        input.close();
 
         for(int index = 0; index < dividend.length(); index++){
 
