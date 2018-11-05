@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class QuickSortingInPlace {
 
     static void printArray(int[] ar, int lo, int hi) {
          for(int h= 0; h<ar.length;h++){
