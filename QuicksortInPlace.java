@@ -16,7 +16,7 @@ public class QuicksortInPlace {
       }
     
     
-    static void quickSort(int[] ar, int lo, int hi){
+    static public void quickSort(int[] ar, int lo, int hi){
         
         int pa=hi;
         
