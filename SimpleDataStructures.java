@@ -26,7 +26,7 @@ public class SimpleDataStructures{
             stringBuilder.append(characterElement);
         }
 
-        System.out.println("Checking elements in structures");
+        System.out.println("\nChecking elements in structures\n");
 
         for(int i=0; i<array.length; i++){
 
@@ -34,7 +34,7 @@ public class SimpleDataStructures{
             System.out.println("Found the value "+queue.poll()+" in queue on iteration "+i);
             System.out.println("Found the value "+stack.pop()+" in stack on iteration "+i);
             System.out.println("Found the value "+map.get(stringBuilder.charAt(i))+" in map on iteration "+i+" using the key "+stringBuilder.charAt(i));
-            System.out.println("Found the value "+string.charAt(i)+" in string on index "+i);
+            System.out.println("Found the value "+string.charAt(i)+" in string on index "+i+"\n");
         }
         System.out.println("The full string was: "+string);
         System.out.println("The full stringBuilder was: "+stringBuilder);
