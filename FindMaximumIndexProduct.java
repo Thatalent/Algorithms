@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class FindMaximumIndexProduct {
     
     static void maxProduct(int [] ar){
         long max=0;
