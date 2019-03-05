@@ -1,3 +1,5 @@
+// from https://www.hackerrank.com/challenges/sock-merchant/problem
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
