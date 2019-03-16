@@ -26,7 +26,7 @@ public class SimpleDataStructures{
             stringBuilder.append(characterElement);
         }
 
-        System.out.println("\nChecking elements in structures\n");
+        System.out.println("Checking elements in structures");
 
         for(int i=0; i<array.length; i++){
 
