@@ -1,3 +1,4 @@
+//Created by Jonathan Hudson for DoL 242. Github username Thatalent
 package datastructures;
 
 import java.util.*;
